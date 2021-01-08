@@ -18,7 +18,7 @@ To see the implementation- https://github.com/Purviharniya/TSF-data-science-busi
 
 Task 2 - Exploring Unsupervised Machine Learning
 From the given 'Iris' dataset, predict the optimum number of clusters and represent it visually.
-To see the implementation-
+To see the implementation-https://github.com/Purviharniya/TSF-data-science-business-analytics/blob/master/TASK2-%20Kmeans/TSF-TASK2.ipynb
 
 Task 6 - Exploring Decision Tree Algorithm
 For the given 'Iris' dataset, create the Decision Tree classifier and visualize it graphically.
