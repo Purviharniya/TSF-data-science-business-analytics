@@ -18,14 +18,12 @@ To see the implementation- https://github.com/Purviharniya/TSF-data-science-busi
 
 Task 2 - Exploring Unsupervised Machine Learning
 From the given 'Iris' dataset, predict the optimum number of clusters and represent it visually.
+To see the implementation-
 
 Task 6 - Exploring Decision Tree Algorithm
 For the given 'Iris' dataset, create the Decision Tree classifier and visualize it graphically.
 The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
-
-Authors
-Mohit Kundu - Github - Linkedin
-See also the list of contributors
+To see the implementation-
 
 Acknowledgments
 Special Thanks to The Sparks Foundation for this Wonderful Internship Experience and Inspiration to do more.
