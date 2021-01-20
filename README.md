@@ -19,6 +19,10 @@ Task 2 - Exploring Unsupervised Machine Learning
 From the given 'Iris' dataset, predict the optimum number of clusters and represent it visually.
 To see the implementation-https://github.com/Purviharniya/TSF-data-science-business-analytics/blob/master/TASK2-%20Kmeans/TSF-TASK2.ipynb
 
+Task 5 - Exploratory Data Analysis
+Explore the given 'IPL' dataset as a sports analyst.
+To see the implementation-https://github.com/Purviharniya/TSF-data-science-business-analytics/tree/master/TASK5-%20EDA_IPL
+
 Task 6 - Exploring Decision Tree Algorithm
 For the given 'Iris' dataset, create the Decision Tree classifier and visualize it graphically.
 The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
